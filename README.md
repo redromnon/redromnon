@@ -25,13 +25,18 @@
 
 [![Rishabh’s github stats](https://github-readme-stats.vercel.app/api?username=redromnon&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/redromnon)
 
+
 ## > Status
 
-- Currently working on [HeroicBashLauncher](https://github.com/redromnon/HeroicBashLauncher) - a tool for Linux gamers that has recieved over **1.5K** downloads.
-- Also work as a **freelance writer** by covering open-source news on [It's FOSS](https://news.itsfoss.com/author/rishabh/). 
+- Currently working on **[HeroicBashLauncher](https://github.com/redromnon/HeroicBashLauncher)** - a tool for Linux gamers that has recieved over **1.5K** downloads.
+- Also work as a freelance writer by covering **open-source news** and **gaming focused essays**. 
 - Looking to upgrade my desktop PC
 
-## > Social Media
+## > Social
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/rishabh-moharir-b804121b5)
+
+## > Blogs
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rishabhmoharir)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://juguidetech.blogspot.com/)
+[![It's FOSS](https://img.shields.io/badge/-it%27s%20foss-%43B02A?style=for-the-badge&logoColor=white)](https://news.itsfoss.com/author/rishabh/)
