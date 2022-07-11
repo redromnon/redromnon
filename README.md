@@ -2,11 +2,11 @@
 
 ## > My Stats
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=redromnon&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/redromnon)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=redromnon&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redromnon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redromnon&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ## > Connect With Me
