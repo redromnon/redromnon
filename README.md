@@ -8,6 +8,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redromnon&theme=tokyonight)](https://git.io/streak-stats)
 
+## > Holopin Badges
+
+[![@redromnon's Holopin board](https://holopin.me/redromnon)](https://holopin.io/@redromnon)
+
 
 ## > Connect With Me
 
