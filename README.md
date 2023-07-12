@@ -6,6 +6,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redromnon&theme=tokyonight)](https://git.io/streak-stats)
 
+[![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=redromnon&bg_color=0e001f&color=ffdbfd&line=ff05ee&point=d4c2ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## > Projects
 
 | Project | Description | Stars | Top Language |
