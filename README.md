@@ -1,14 +1,15 @@
 # _Greetings! I'm Rishabh Moharir_ 👋
 
-## > Stats
+<h2>Stats</h2>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=redromnon&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=redromnon&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redromnon&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redromnon&theme=radical)](https://git.io/streak-stats)
 
-[![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=redromnon&bg_color=0e001f&color=ffdbfd&line=ff05ee&point=d4c2ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rishabh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=redromnon&bg_color=160f21&color=80fef9&line=f20274&point=fae534&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## > Projects
+<details>
+<summary> <h2>Projects</h2> </summary>
 
 | Project | Description | Stars | Top Language |
 | --- | --- | --- | --- |
@@ -19,6 +20,11 @@
 | [Music Beats Shop](https://github.com/redromnon/Music-Beats-Shop) | 🎵 E-commerce platform for selling music beats and personalized services | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/redromnon/Music-Beats-Shop?color=dark%20green"> | <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/redromnon/Music-Beats-Shop?style=plastic"> |
 | [es-theme-blackdice](https://github.com/redromnon/es-theme-blackdice) | 🎮 A Simple-Monochrome Theme for Emulationstation |  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/redromnon/es-theme-blackdice?color=dark%20green"> | XML |
 
-## > Connect With Me
+</details>
+
+<details>
+<summary> <h2>Connect With Me</h2> </summary>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/rishabh-moharir-b804121b5) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/redromnon)
+
+</details>
