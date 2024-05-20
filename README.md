@@ -4,9 +4,9 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=redromnon&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redromnon&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=redromnon&theme=radical)](https://git.io/streak-stats)
 
-[![Rishabh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=redromnon&bg_color=160f21&color=80fef9&line=f20274&point=fae534&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rishabh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=redromnon&bg_color=160f21&color=80fef9&line=f20274&point=fae534&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details>
 <summary> <h2>Projects</h2> </summary>
